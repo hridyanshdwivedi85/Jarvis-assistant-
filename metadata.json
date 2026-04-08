@@ -1,0 +1,5 @@
+{
+  "name": "JARVIS System",
+  "description": "An advanced AI assistant with voice interaction, system control capabilities, and real-time internet browsing.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
